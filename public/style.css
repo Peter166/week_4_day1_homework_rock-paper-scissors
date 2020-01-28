@@ -1,0 +1,22 @@
+body{
+  background-image: url("background.png");
+  background-color: lightblue;
+  background-repeat: repeat;
+  background-position: center top;
+  margin-top: 500px;
+}
+
+
+h1 {
+  text-align: center;
+  margin-top: 500px;
+}
+
+h2 {
+  text-align: center;
+
+}
+
+p {
+  font-family: "Courier New", Times, serif;
+}
